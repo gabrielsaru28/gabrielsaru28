@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saru Gabriel</h1>
-<h3 align="center">an enthusiastic student at the Faculty of Automatic Control and Computer Science from the Politehnica University of Bucharest, eager to contribute to team success through hard work, attention to detail and excellent organizational skills.</h3>
+<h1 align="center">Hi there👋, I'm Saru Gabriel</h1>
+<h3 align="center">an enthusiastic student at the Faculty of Automatic Control and Computer Science from the Politehnica University of Bucharest, eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I could say that I'm pretty self-motivated, reliable, responsible and hard working person. 
+
+• I am a mature team worker and adaptable to all challenging situations, being able to work well both in a team environment as well as using own initiative. Besides that, I think I'm doing good work well under pressure and adhere to strict deadlines. 
+
+• My forte points are fast learning and problem solving using the most efficient way, managing to work under pressure, and my field of interest is made up by making new projects, using eficient algorithms & data structures in different areas .
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsaru28&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsaru28" /> </p>
 
@@ -8,6 +14,8 @@
 - 🔭 I’m currently working on **Compiler**
 
 - 👨‍💻 All of my projects are available at [https://gabrielsaru28.github.io/](https://gabrielsaru28.github.io/)
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **sarugabriel13@gmail.com**
 

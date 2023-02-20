@@ -29,6 +29,9 @@
 
 - ⚡ Fun fact **A crocodile 🐊 cannot stick its tongue out.**
 
+![Snake animation](https://github.com/gabrielsaru28/gabrielsaru28/blob/output/github-contribution-grid-snake.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saru-gabriel-alexandru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saru-gabriel-alexandru/" height="30" width="40" /></a>

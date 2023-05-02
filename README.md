@@ -8,6 +8,9 @@
 <br>
 • My forte points are fast learning and problem solving using the most efficient way, managing to work under pressure, and my field of interest is made up by making new projects, using eficient algorithms & data structures in different areas .
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  
+  
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsaru28&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsaru28" /> </p>

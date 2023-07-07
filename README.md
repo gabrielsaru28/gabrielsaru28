@@ -10,9 +10,7 @@
 
 ###
 
-<div align="left" href="https://www.linkedin.com/in/saru-gabriel-alexandru/">
-  <img src="https://www.linkedin.com/in/saru-gabriel-alexandru/" width="52" height="40" alt="linkedin logo"  />
-</div>
+
 
 ###
 
